@@ -1,0 +1,15 @@
+[10:02 AM] Alice: Good morning everyone, let’s start. First on the agenda is the Q4 budget.  
+[10:03 AM] John: The finance team suggests keeping it at $450k, but marketing thinks we need at least $500k.  
+[10:05 AM] Sarah: I agree with marketing, especially since we’re launching the new product in November.  
+[10:06 AM] Alice: Okay, let’s finalize the Q4 budget at $500k.  
+
+[10:10 AM] Alice: Next, the product launch. Marketing wants November 15. Is everyone good with that?  
+[10:11 AM] John: Works for me.  
+[10:11 AM] Sarah: Yes, that’s a good timeline.  
+
+[10:15 AM] Alice: Let’s assign tasks. John, please draft the marketing campaign by September 20.  
+[10:16 AM] Alice: Sarah, finalize vendor contracts by September 25.  
+[10:17 AM] John: Got it.  
+[10:17 AM] Sarah: Will do.  
+
+[10:20 AM] Alice: Great, thanks everyone. Meeting adjourned.

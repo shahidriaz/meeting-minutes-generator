@@ -1,0 +1,49 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# --- Environments ---
+.env
+.venv/
+venv/
+ENV/
+env/
+.conda/
+.venv.bak/
+
+# --- Poetry ---
+poetry.lock
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*.ipynb_out
+
+# --- VS Code ---
+.vscode/
+*.code-workspace
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+*.out
+*.err
+
+# --- Coverage / Test ---
+.coverage
+coverage.xml
+htmlcov/
+pytest_cache/
+.tox/
+.mypy_cache/
+.pytest_cache/
+.pyre/
